@@ -1,0 +1,1 @@
+Hello! The tools included in this repository allow you to run the Structure for Unifying Multiple Modeling Alternatives (SUMMA) hydrological model with the pysumma python wrapper. The meteorology used to initialize model runs uses NRCS SNOTEL data. Using this meteorology as a forcing, you can run the model for any water year (Oct. 1 - Sep. 30) in that site's period of record.
